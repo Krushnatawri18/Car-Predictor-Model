@@ -1,1 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
 
+.bg-dark{
+    background-color: rgb(194, 194, 194);
+    color: black;
+}
+
+h1{
+    text-align: center;
+}
+
+.nt-50{
+    margin-top: 60px;
+    margin: auto;
+}
+
+label{
+    font-size: 20px;
+    font-weight: 400;
+    width: 100%;
+}
+
+label, select{
+    margin-bottom: 10px;
+}
+
+button{
+    margin-top: 20px;
+    width: 500px;
+}
+
+form{
+    margin: auto;
+}
